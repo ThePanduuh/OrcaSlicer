@@ -48,6 +48,10 @@
         {
             "name": "Bambu Lab X1E",
             "sub_path": "machine/Bambu Lab X1E.json"
+        },
+        {
+            "name": "Bambu Lab H2C",
+            "sub_path": "machine/Bambu Lab H2C.json"
         }
     ],
     "process_list": [
@@ -472,6 +476,14 @@
             "sub_path": "process/0.08mm Standard @BBL X1C 0.2 nozzle.json"
         },
         {
+            "name": "0.08mm High Quality @BBL H2C 0.2 nozzle",
+            "sub_path": "process/0.08mm High Quality @BBL H2C 0.2 nozzle.json"
+        },
+        {
+            "name": "0.08mm High Quality @BBL H2C",
+            "sub_path": "process/0.08mm High Quality @BBL H2C.json"
+        },
+        {
             "name": "0.10mm High Quality @BBL A1 0.2 nozzle",
             "sub_path": "process/0.10mm High Quality @BBL A1 0.2 nozzle.json"
         },
@@ -510,6 +522,10 @@
         {
             "name": "0.10mm Standard @BBL X1C 0.2 nozzle",
             "sub_path": "process/0.10mm Standard @BBL X1C 0.2 nozzle.json"
+        },
+        {
+            "name": "0.10mm Standard @BBL H2C 0.2 nozzle",
+            "sub_path": "process/0.10mm Standard @BBL H2C 0.2 nozzle.json"
         },
         {
             "name": "0.12mm Fine @BBL A1",
@@ -552,12 +568,20 @@
             "sub_path": "process/0.12mm High Quality @BBL X1C.json"
         },
         {
+            "name": "0.12mm High Quality @BBL H2C",
+            "sub_path": "process/0.12mm High Quality @BBL H2C.json"
+        },
+        {
             "name": "0.12mm Balanced Quality @BBL H2S 0.2 nozzle",
             "sub_path": "process/0.12mm Balanced Quality @BBL H2S 0.2 nozzle.json"
         },
         {
             "name": "0.12mm Balanced Quality @BBL P2S 0.2 nozzle",
             "sub_path": "process/0.12mm Balanced Quality @BBL P2S 0.2 nozzle.json"
+        },
+        {
+            "name": "0.12mm Balanced Quality @BBL H2C 0.2 nozzle",
+            "sub_path": "process/0.12mm Balanced Quality @BBL H2C 0.2 nozzle.json"
         },
         {
             "name": "0.12mm Draft @BBL A1 0.2 nozzle",
@@ -616,6 +640,10 @@
             "sub_path": "process/0.16mm High Quality @BBL X1C.json"
         },
         {
+            "name": "0.16mm High Quality @BBL H2C",
+            "sub_path": "process/0.16mm High Quality @BBL H2C.json"
+        },
+        {
             "name": "0.16mm Optimal @BBL A1",
             "sub_path": "process/0.16mm Optimal @BBL A1.json"
         },
@@ -632,6 +660,10 @@
             "sub_path": "process/0.16mm Optimal @BBL X1C.json"
         },
         {
+            "name": "0.16mm Standard @BBL H2C",
+            "sub_path": "process/0.16mm Standard @BBL H2C.json"
+        },
+        {
             "name": "0.16mm Standard @BBL H2S",
             "sub_path": "process/0.16mm Standard @BBL H2S.json"
         },
@@ -646,6 +678,10 @@
         {
             "name": "0.18mm Balanced Quality @BBL P2S 0.6 nozzle",
             "sub_path": "process/0.18mm Balanced Quality @BBL P2S 0.6 nozzle.json"
+        },
+        {
+            "name": "0.18mm Balanced Quality @BBL H2C 0.6 nozzle",
+            "sub_path": "process/0.18mm Balanced Quality @BBL H2C 0.6 nozzle.json"
         },
         {
             "name": "0.18mm Fine @BBL A1 0.6 nozzle",
@@ -670,6 +706,14 @@
         {
             "name": "0.20mm High Quality @BBL P2S",
             "sub_path": "process/0.20mm High Quality @BBL P2S.json"
+        },
+        {
+            "name": "0.20mm High Quality @BBL H2C",
+            "sub_path": "process/0.20mm High Quality @BBL H2C.json"
+        },
+        {
+            "name": "0.20mm Standard @BBL H2C",
+            "sub_path": "process/0.20mm Standard @BBL H2C.json"
         },
         {
             "name": "0.20mm Standard @BBL A1",
@@ -760,6 +804,18 @@
             "sub_path": "process/0.24mm Standard @BBL X1C 0.6 nozzle.json"
         },
         {
+            "name": "0.24mm Standard @BBL H2C",
+            "sub_path": "process/0.24mm Standard @BBL H2C.json"
+        },
+        {
+            "name": "0.24mm Balanced Strength @BBL H2C 0.6 nozzle",
+            "sub_path": "process/0.24mm Balanced Strength @BBL H2C 0.6 nozzle.json"
+        },
+        {
+            "name": "0.24mm Balanced Quality @BBL H2C 0.8 nozzle",
+            "sub_path": "process/0.24mm Balanced Quality @BBL H2C 0.8 nozzle.json"
+        },
+        {
             "name": "0.24mm Balanced Quality @BBL H2S 0.8 nozzle",
             "sub_path": "process/0.24mm Balanced Quality @BBL H2S 0.8 nozzle.json"
         },
@@ -812,6 +868,10 @@
             "sub_path": "process/0.30mm Standard @BBL H2S 0.6 nozzle.json"
         },
         {
+            "name": "0.30mm Standard @BBL H2C 0.6 nozzle",
+            "sub_path": "process/0.30mm Standard @BBL H2C 0.6 nozzle.json"
+        },
+        {
             "name": "0.30mm Standard @BBL P1P 0.6 nozzle",
             "sub_path": "process/0.30mm Standard @BBL P1P 0.6 nozzle.json"
         },
@@ -842,6 +902,10 @@
         {
             "name": "0.30mm Strength @BBL X1C 0.6 nozzle",
             "sub_path": "process/0.30mm Strength @BBL X1C 0.6 nozzle.json"
+        },
+        {
+            "name": "0.32mm Balanced Strength @BBL H2C 0.8 nozzle",
+            "sub_path": "process/0.32mm Balanced Strength @BBL H2C 0.8 nozzle.json"
         },
         {
             "name": "0.32mm Balanced Quality @BBL H2S 0.8 nozzle",
@@ -890,6 +954,10 @@
         {
             "name": "0.40mm Standard @BBL A1M 0.8 nozzle",
             "sub_path": "process/0.40mm Standard @BBL A1M 0.8 nozzle.json"
+        },
+        {
+            "name": "0.40mm Standard @BBL H2C 0.8 nozzle",
+            "sub_path": "process/0.40mm Standard @BBL H2C 0.8 nozzle.json"
         },
         {
             "name": "0.40mm Standard @BBL H2S 0.8 nozzle",
@@ -7870,6 +7938,22 @@
         {
             "name": "Bambu Lab X1E 0.8 nozzle",
             "sub_path": "machine/Bambu Lab X1E 0.8 nozzle.json"
+        },
+        {
+            "name": "Bambu Lab H2C 0.4 nozzle",
+            "sub_path": "machine/Bambu Lab H2C 0.4 nozzle.json"
+        },
+        {
+            "name": "Bambu Lab H2C 0.2 nozzle",
+            "sub_path": "machine/Bambu Lab H2C 0.2 nozzle.json"
+        },
+        {
+            "name": "Bambu Lab H2C 0.6 nozzle",
+            "sub_path": "machine/Bambu Lab H2C 0.6 nozzle.json"
+        },
+        {
+            "name": "Bambu Lab H2C 0.8 nozzle",
+            "sub_path": "machine/Bambu Lab H2C 0.8 nozzle.json"
         },
         {
             "name": "Bambu Lab H2D 0.2 nozzle",
